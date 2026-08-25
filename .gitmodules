@@ -1,0 +1,3 @@
+[submodule "wifibox-collector"]
+	path = wifibox-collector
+	url = https://github.com/YustinusAYoga/wifibox-collector-pv.git
